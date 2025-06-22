@@ -4,7 +4,7 @@ http request libary made using sockets.
 
 Higly experimental; not ready to use yet.
 
-Developed by Issac (c) 2022
+Developed by ebakk (c) 2022
 
 ## Examples of how to use (Alpha Version)
 
